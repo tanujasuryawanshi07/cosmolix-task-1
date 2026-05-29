@@ -8,3 +8,4 @@ GitHub is a cloud-based platform that works with Git. It allows developers to st
 
 ## Why developers use Git & GitHub
 Developers use Git and GitHub because they make coding projects more organized and safe. Git helps keep a history of changes, while GitHub makes teamwork easier by allowing collaboration from anywhere in the world. Together, they improve productivity, reduce mistakes, and make software development more efficient.
+Using Git and GitHub also helps developers collaborate smoothly and maintain a clear history of their project progress.
